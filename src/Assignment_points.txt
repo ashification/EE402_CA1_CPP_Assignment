@@ -1,0 +1,63 @@
+//1.
+// Inheritance through the use of multiple classes.
+// This should include multiple inheritance as one example, which does not have to make perfect sense in the real-world.
+// (Please note Point 6.)
+
+//2.
+// Correct and appropriate use of the access specifiers public, private, and protected.
+
+//3.
+//  Overloading using either methods or constructor methods.
+
+//4.
+//  Abstract classes with an abstract method that is implemented in a child class.
+//  This should be integrated into your code in Point 1.
+
+//5.
+//  Correct use of new and delete for the allocation of an object/objects, with operations on the object using pointers.
+//  (Can be combined with other points)
+
+//6.
+//  Separate compilation with all classes in your assignment (i.e., all classes should have .cpp and .h files).
+
+//7.
+//  Passing an object to a function by value and by reference. Demonstrate the impact of the change.
+
+//8.
+//  An example of an object passing itself to a function (not part of a class), which modifies that object.
+
+//9.
+//  A class with a modified copy constructor and demonstrate the effect of this on pass-by-value and pass-by-reference calls.
+
+//10.
+//  Create an array of pointers to objects (e.g., 3 elements) of one of your classes and pass this array to a function that displays all elements.
+
+//11.
+//  A working destructor with some basic functionality on one of your classes. Demonstrate it working in your main() function.
+
+//12.
+//  Correct use of three overloaded operators (e.g., +, = and ==) for one of your classes.
+
+//13.
+//  Use of all four C++ explicit style casts.
+
+//14.
+//  Use of dynamic binding with virtual & non-virtual methods. Demonstrate the impact.
+
+//15.
+//  Static states of a class and an example usage. Demonstrate the impact.
+
+//16.
+//  Demonstrates the difference between a C++ class and a C++ struct.
+
+//17.
+//  Passing an object to a method by constant reference. Demonstrate the impact and limitations of this use.
+
+//18.
+//  Write a straightforward example class template using the examples in the notes.
+
+//19.
+//  Use of the vector container to contain a number of objects of one of your classes using the examples in the notes.
+
+//20.
+//  Use of an algorithm on your container using the examples in the notes.
